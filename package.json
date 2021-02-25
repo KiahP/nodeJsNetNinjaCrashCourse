@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "crash-course",
+  "version": "1.0.0",
+  "main": "Modules.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KiahP/nodeJsNetNinjaCrashCourse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KiahP/nodeJsNetNinjaCrashCourse/issues"
+  },
+  "homepage": "https://github.com/KiahP/nodeJsNetNinjaCrashCourse#readme",
+  "description": ""
+}
